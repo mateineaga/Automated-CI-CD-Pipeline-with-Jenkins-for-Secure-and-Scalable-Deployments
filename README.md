@@ -1,7 +1,7 @@
-# 🚀 Continuous Integration & Delivery using Jenkins
+# 🚀 Automated CI/CD Pipeline with Jenkins for Secure and Scalable Deployments
 
 ## 👨‍💻 Author: **Neaga Matei**  
-📍 **Lab 3 - Cloud DevOps & CI/CD**
+📍 **Bucharest, 2025**
 
 ---
 
